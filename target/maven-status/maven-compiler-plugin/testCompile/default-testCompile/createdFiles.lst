@@ -1,0 +1,8 @@
+com\bookstore\tests\FrameworkSetupTest.class
+com\bookstore\clients\AuthorApiClient.class
+com\bookstore\tests\books\AuthorsApiTest.class
+com\bookstore\config\ApiConfig.class
+com\bookstore\clients\BookApiClient.class
+com\bookstore\tests\books\BooksApiTest.class
+com\bookstore\testdata\TestData.class
+com\bookstore\config\ApiSpecifications.class

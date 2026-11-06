@@ -1,0 +1,8 @@
+C:\API_Automation_Assessment\src\test\java\com\bookstore\clients\AuthorApiClient.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\clients\BookApiClient.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\config\ApiConfig.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\config\ApiSpecifications.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\testdata\TestData.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\tests\books\AuthorsApiTest.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\tests\books\BooksApiTest.java
+C:\API_Automation_Assessment\src\test\java\com\bookstore\tests\FrameworkSetupTest.java
