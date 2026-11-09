@@ -3,7 +3,7 @@
 API test automation framework for the FakeRESTAPI Bookstore assessment.
  
 ## Tech stack
-- Java 21
+- Java 25
 - Maven
 - REST Assured 6.1.0
 - JUnit Jupiter 6.1.3
@@ -19,7 +19,7 @@ Covered resources:
 - Authors: GET list, GET by ID, POST, PUT, DELETE
  
 ## Prerequisites
-- JDK 21
+- JDK 25
 - Maven 3.9+
 - Git
  
